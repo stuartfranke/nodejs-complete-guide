@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="NodeJS Complete Guide" type="NodeJSConfigurationType" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+    <method v="2">
+      <option name="LaunchBrowser.Before.Run" url="http://localhost:3000" />
+    </method>
+  </configuration>
+</component>
